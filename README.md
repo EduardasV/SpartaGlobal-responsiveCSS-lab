@@ -2,4 +2,4 @@
 
 ### Objectives
 
-* create a responsive CSS page using a template
+* create a responsive CSS page using an image as a template
